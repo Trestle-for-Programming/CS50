@@ -27,3 +27,16 @@
    git clone https://github.com/your-username/CS50.git
    cd CS50
    ```
+2. **Compile C Programs (e.g., for Week 1):**
+```
+bash
+cd ProblemSets/Week1-C/Mario
+make mario
+./mario
+```
+3. **Run Python/SQL Code:**
+```
+bash
+cd ProblemSets/Week6-Python/DNA
+python dna.py databases/large.csv sequences/5.txt
+```
